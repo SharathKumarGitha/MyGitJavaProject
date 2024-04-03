@@ -5,16 +5,7 @@ public class Demo1 {
 	
 	public void add(String data)
 	{
-		System.out.println("data is "+data);
-		
-		if(data.equals("sharath"))
-		{
-			System.out.println("data is valid ");
-		}
-		else
-		{
-			System.out.println("data is not added");
-		}
+		System.out.println(Constant.data_type);
 	}
 	
 	public static void main(String[] args) {
