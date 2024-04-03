@@ -3,14 +3,14 @@ package com.git;
 public class Demo1 {
 	
 	
-	public void add(String data)
+	public void add2(String data)
 	{
 		System.out.println(Constant.data_type);
 	}
 
-	public void addedMethod()
+	public void addedMethod2()
 	{
-		System.out.println("new method is created");
+		System.out.println("addedMethod2() is created");
 	}
 	
 	public static void main(String[] args) {
