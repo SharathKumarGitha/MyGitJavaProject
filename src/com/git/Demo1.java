@@ -7,6 +7,11 @@ public class Demo1 {
 	{
 		System.out.println(Constant.data_type);
 	}
+
+	public void addedMethod()
+	{
+		System.out.println("new method is created");
+	}
 	
 	public static void main(String[] args) {
 		
