@@ -13,6 +13,11 @@ public class Demo1 {
 		System.out.println("addedMethod2() is created");
 	}
 	
+	public void addedMethod3()
+	{
+		System.out.println("addedMethod3() is created");
+	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println("this is first statement");
