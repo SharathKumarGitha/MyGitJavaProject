@@ -34,6 +34,11 @@ public class Demo1 {
 		System.out.println("addedMethod6() is created");
 	}
 	
+	public void addedMethod7()
+	{
+		System.out.println("addedMethod7() is created");
+	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println("this is first statement");
