@@ -28,6 +28,11 @@ public class Demo1 {
 	{
 		System.out.println("addedMethod5() is created");
 	}
+
+	public void addedMethod6()
+	{
+		System.out.println("addedMethod6() is created");
+	}
 	
 	public static void main(String[] args) {
 		
